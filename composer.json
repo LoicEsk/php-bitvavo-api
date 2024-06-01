@@ -1,5 +1,5 @@
 {
-    "name": "bitvavo/php-bitvavo-api",
+    "name": "loicesk/php-bitvavo-api",
     "description": "The PHP wrapper for the Bitvavo API.",
     "license": "ISC",
     "authors": [
