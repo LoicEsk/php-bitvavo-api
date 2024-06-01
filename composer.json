@@ -11,7 +11,7 @@
     "require": {
         "php": ">=7.0",
         "ext-curl": "*",
-        "ratchet/pawl": "^0.3.0 || 0.4.*",
+        "ratchet/pawl": "^0.4.0",
         "react/socket": "^1.0 || ^0.8 || ^0.7",
         "ratchet/rfc6455": "^0.2.3"
     },
